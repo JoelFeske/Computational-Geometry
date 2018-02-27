@@ -1,5 +1,5 @@
 # Computational-Geometry
-Some classes I've written to solve a few computational geometry problems I've been working on
+Some classes I've written to solve a few computational geometry problems I've been working on -- see a full explanation here: http://www.joelfeske.com/computational-geometry.html
 
 KMeans:
 This is an extension of the standard KMeans algorithm. It runs a standard KMeans clustering, but there is the option to equalize the sizes of the clusters afterwards.
